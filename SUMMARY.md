@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Overview](README.md)
+* [DRC20](drc20.md)
